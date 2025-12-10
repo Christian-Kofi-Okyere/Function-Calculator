@@ -2,8 +2,6 @@
 
 Author: Christian Okyere
 
-Date: 2012 (source timestamps)
-
 ## Overview
 
 This repository implements a small RPN-style calculator in VHDL targeted at Altera/Intel FPGAs (Cyclone III). The design includes:
