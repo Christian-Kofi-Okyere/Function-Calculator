@@ -125,7 +125,6 @@ Results are presented on two 7-segment displays (`digit0` shows lower nibble, `d
 ## Licensing & credits
 
 - `memram.vhd` contains Altera/Intel megafunction wizard headers. Respect the Altera/Intel licensing terms when using those files.
-- The rest of the code appears to be course/student work (author header in VHDL source: Christian Okyere). Include your preferred OSS license file if you intend to publish (MIT, Apache-2.0, etc.).
 
 ## Files
 
